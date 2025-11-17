@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TinyFish - Developer-Focused Website",
-  description: "Modern developer-focused website built with Next.js 15, TypeScript, Tailwind CSS, and Payload CMS",
+  title: "TinyFish - Web Operations Infrastructure",
+  description: "Your AI needs to do more than search. It needs to act. TinyFish provides the infrastructure to automate web operations at scale.",
 };
 
 export default function RootLayout({
